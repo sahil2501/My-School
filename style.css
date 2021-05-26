@@ -48,17 +48,18 @@ a h3 {
     color: gold;
     background: linear-gradient(red 0%, orange 100%);
     font-size: 20px;
-    
+
 }
+
 .menu {
-    list-style: decimal;
+    list-style-image: url(https://tse3.mm.bing.net/th?id=OIP.qgjRrHgtprNHD-qdd2IBYgHaD1&pid=Api&P=0&w=187&h=15);
     cursor: pointer;
     top: 10;
     left: -20;
     position: fixed;
     z-index: 10;
     margin: inherit;
-    margin-left: 1%;
+    margin-left: 2.5%;
 }
 
 h3 hover {
@@ -68,12 +69,35 @@ h3 hover {
 h5 {
     font-size: 20px;
     color: gold;
-    margin-bottom: 20px
+    margin-bottom: 20px;
 }
+
+#shortIt {
+    margin-left: 10%;
+}
+
 #schoolLife img {
     width: 30%
 }
 
-#noStar{
-   color: grey;
+#noStar {
+    color: grey;
+}
+
+#contact {
+    margin-top: 500px;
+    margin-bottom: 100px;
+}
+
+#contact iframe {
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+
+#contact h5 {
+    font-size: 25px;
+}
+
+#videos {
+    margin-top: 500px;
 }
